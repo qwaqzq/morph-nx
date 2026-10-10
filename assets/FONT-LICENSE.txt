@@ -1,0 +1,4 @@
+assets/font.ttf is the Ubuntu font, Copyright 2011 Canonical Ltd.
+It is used unmodified under the Ubuntu Font Licence 1.0; the full licence text is in UFL.txt
+next to this file. The font is a separate asset and stays under the UFL; morph's own code
+is GPL-3.0-or-later (see LICENSE).
